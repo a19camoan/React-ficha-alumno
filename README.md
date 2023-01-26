@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# CREACIÓN DE TU PROPIO COMPONENTE
+
+Una vez que ya hemos visto intensamente el tutorial de React así como la creación de tus propios proyectos en tu máquina local es hora de empezar a crear tus propios componentes. Como sabes en React hay dos tipos de componentes: “Class Component” y “Function Component”. Elige la modalidad que más te guste, aunque por simplicidad quizás es más recomendable uso de un “Function Component”.
+
+En esta práctica deberás generar el componente FichaAlumno la cuál se muestre por pantalla y deberá mostrar los datos básicos del mismo. Todos y cada uno de los datos deberá ser parametrizable a excepción de la foto del alumno la cuál deberá de ser importada manualmente. Como ejemplo, la ficha del alumno podría quedar así:
+
+![FichaEjemplo](./ficha-ejemplo.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
